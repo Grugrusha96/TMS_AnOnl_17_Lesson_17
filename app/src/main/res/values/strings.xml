@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lesson16</string>
+    <string name="mainActivityText">1 Нажми на меня</string>
+    <string name="mainActivity2Text">2 Нажми еще раз</string>
+    <string name="mainActivity3Text">3 И еще раз</string>
+    <string name="mainActivity4Text">4 И опять нажми</string>
+    <string name="mainActivity5Text">5 Давай заново нажимай</string>
+    <string name="mainActivityBatton">Кнапэчка</string>
+    <string name="mainActivityBatton1">Третий</string>
+    <string name="mainActivityBatton2">Четвертый</string>
+    <string name="mainActivityBatton3">Пятый</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
