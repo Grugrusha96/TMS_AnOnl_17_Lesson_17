@@ -11,6 +11,7 @@
     <Button
         android:id="@+id/button"
         android:layout_width="200sp"
+        android:background="@drawable/cut"
         android:layout_height="wrap_content"
         android:layout_marginBottom="60dp"
         android:text="@string/mainActivityBatton"

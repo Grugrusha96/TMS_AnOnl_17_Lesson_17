@@ -8,6 +8,8 @@
 
     <TextView
         android:id="@+id/textView4"
+        style="@style/TextViewStyle"
+        android:background="@drawable/cut"
         android:layout_width="200sp"
         android:layout_height="60sp"
         android:layout_marginTop="60dp"
@@ -20,6 +22,7 @@
         android:id="@+id/button4"
         android:layout_width="200sp"
         style="@style/TextViewStyle"
+        android:background="@drawable/cut"
         android:layout_height="wrap_content"
         android:layout_marginBottom="60dp"
         android:text="@string/mainActivityBatton"
